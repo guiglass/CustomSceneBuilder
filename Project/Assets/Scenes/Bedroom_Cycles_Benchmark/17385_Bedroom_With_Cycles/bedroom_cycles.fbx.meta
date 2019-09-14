@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 63b560988a8803c409de38fb08368d0d
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminio
+    second: {fileID: 2100000, guid: ef5dc685cf8d57e49a89bb62f90a2881, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: caixa1
+    second: {fileID: 2100000, guid: 9f78da22eef3e1345bc858a4f324e0e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candeeira_plastico
+    second: {fileID: 2100000, guid: 1263fd4a6949e5348acd54c27e891811, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candeeiro_lampada
+    second: {fileID: 2100000, guid: f20ba669915d84b469899b4935c4c3ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candeeiro_metal
+    second: {fileID: 2100000, guid: 931e0dc8170472945ac01f42bff02ae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candeeiro_vidro
+    second: {fileID: 2100000, guid: 0a4666e6f56dc6d4d9a6bec00fd8d816, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chao_madeira
+    second: {fileID: 2100000, guid: 9b6d6691ecd7821438e87953fd1204b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cobertor1
+    second: {fileID: 2100000, guid: 058f0b48e60897d4ca45a59a3424d69a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cobertor2
+    second: {fileID: 2100000, guid: 0a1d0aa7159f41e4a8b0c2653a9e5eb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: colcha
+    second: {fileID: 2100000, guid: 4e909258da49bed4683bbe7623cb0ad9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cortina
+    second: {fileID: 2100000, guid: 95ee6914e8be5d849a7d4be4398a22ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: espelho
+    second: {fileID: 2100000, guid: 8497c9326485422458a12661b58cef34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: janela_metal
+    second: {fileID: 2100000, guid: 8f7005a365476a747997593d418e3faa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: janela_vidro
+    second: {fileID: 2100000, guid: 5f6844b2257aca141851d1af9b1012aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: livro_capa
+    second: {fileID: 2100000, guid: 564009b5d4c257a468c785e608e525df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: livro_folhas
+    second: {fileID: 2100000, guid: 9d99cc0d54dbfc74397a078ff5a588e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madeira_clara
+    second: {fileID: 2100000, guid: b11295c0916382d4eb85508a3b405f66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madeira_escura
+    second: {fileID: 2100000, guid: bea5b04f4f8593e40947709a7feb82b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: parede_branca
+    second: {fileID: 2100000, guid: 03a9f7093be660447824b343e651fcdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: parede_cor
+    second: {fileID: 2100000, guid: f514868c651181f46b73205a23d22d6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: passepartout-foto
+    second: {fileID: 2100000, guid: 12c183d43d615184aaafaa740e576902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: passepartout-madeira
+    second: {fileID: 2100000, guid: ca775ecafdd6a8f42911e78e3e63ea35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: passepartout-metal
+    second: {fileID: 2100000, guid: 997cfad3dc3fee146925e8b43b5110fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: passepartout-vidro
+    second: {fileID: 2100000, guid: 68b50f7e3807cb84bad9655727887a55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pedras1
+    second: {fileID: 2100000, guid: bcc9770f9bbab5945a0b272cb2d51713, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pedras2
+    second: {fileID: 2100000, guid: 07bb9b98996cab84288cd2f281031ed2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pedras3
+    second: {fileID: 2100000, guid: 07d3da5a582feeb439e7eb10528a6a84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plantas
+    second: {fileID: 2100000, guid: e8ff67018be9efd4ab164c280383c432, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: prato
+    second: {fileID: 2100000, guid: 8b4cc4f45300bd84180e6b4f3ab2afa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: quadro_bbb
+    second: {fileID: 2100000, guid: f2f6d6521c9669b46b3f18b6dccd6c69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: quadro_elephants
+    second: {fileID: 2100000, guid: ba9ad06965ca8424eb116d7a36ea0aea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: quadro_madeira
+    second: {fileID: 2100000, guid: 77f0d8fcdf4dc1c40b87798165382703, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: quadro_sintel
+    second: {fileID: 2100000, guid: 5680b19c27639c04db33c37ab832f8b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tapete
+    second: {fileID: 2100000, guid: ed9aa8493042ed2478130ecbd7e7b814, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tapete2
+    second: {fileID: 2100000, guid: c5bc9583260682441b4f3b74c9e954c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tecido_cama_branco
+    second: {fileID: 2100000, guid: f0ef2df1ed5b46e4ca3b728a9d89f2e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: varao
+    second: {fileID: 2100000, guid: e38081d05055a2546851548cbcbb3bad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vazo
+    second: {fileID: 2100000, guid: bdfd48d73797534409d8a04f6877b0ae, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
