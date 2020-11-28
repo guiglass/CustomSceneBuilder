@@ -5,7 +5,7 @@ The CustomSceneBuilder contains an example Unity project that shows a Blender sc
 
 ---
 
-# And here are some of the steps to create a scene asset completely from scratch:
+# Or create a scene asset completely from scratch:
 
 First create a .blend file with the scene model and move it into the unity scene:
 
