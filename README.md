@@ -25,7 +25,7 @@ Copy the new .scene file to: **%USERPROFILE%\appdata\LocalLow\Animation Prep Stu
 
 Also be sure to copy the original .blend and place it next to the .scene asset and give it the same name - this will make the .blend (aka. render scene template) available when exporting from Luxor so it can be loaded by the sceneloader for final rendering:
 
-![Step1](https://imgur.com/3E5IUfZ.png)
+![Step1](https://imgur.com/lyLAfea.png)
 
 
 If all was successful then you should see the scene you created from Unity available in the scene browser for Luxor and can be used as a mocap environment.
