@@ -35,7 +35,7 @@ Also be sure to copy the original .blend and place it next to the .scene asset a
 
 If all was successful then you should see the scene you created from Unity available in the scene browser for Luxor and can be used as a mocap environment.
 
-Then after creating some mocap in Luxor and exporting everything out to a new Blender files *project folder* you should see your original .blend in the same directory as your avatar/mocap output and as part of the compilation to be loaded by the SceneLoader. 
+Then after creating some mocap in Luxor and exporting everything out to a new Blender files *project folder* you should see that a copy of the original .blend was placed in the directory with the mocap output as part of the compilation to be loaded by the SceneLoader. 
 
 Here's an example of some of the files that exist after exporting a scene from Luxor to a new Blender project folder. Notice the scene.blend which is just the original .blend that was used:
 
