@@ -24,7 +24,7 @@ From here you should be able to build the scene to an assetbundle by selecting *
 
 ![Step1](https://imgur.com/mytvIic.png)
 
-Once Unity has finished processing the assetbundle you can then move the newly created .scene file from the Unity project and place it into **VR_MocapAssets** folder to make it available in Luxor. 
+Once Unity has finished processing the assetbundle you can then move the newly created .scene (located in *Assets/AssetBundles* folder) file from the Unity project and place it into **VR_MocapAssets** folder to make it available in Luxor. 
 
 Copy the new .scene file to: **%USERPROFILE%\appdata\LocalLow\Animation Prep Studios\AnimationPrepStudio_Lite\VR_MocapAssets**
 
