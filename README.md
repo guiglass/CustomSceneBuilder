@@ -20,7 +20,7 @@ Add the [CreateAssetBundles.cs](https://github.com/guiglass/CustomSceneBuilder/b
 
 
 
-From here you should be able to build the scene to an assetbundle by selecting Build **Assetbundles** from the **Assets** dropdown:
+From here you should be able to build the scene to an assetbundle by selecting **Build Assetbundles** from the **Assets** dropdown:
 
 ![Step1](https://imgur.com/mytvIic.png)
 
