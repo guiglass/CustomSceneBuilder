@@ -16,7 +16,7 @@ If creating a scene from a blank project then you have to assign the assetbundle
 
 ![Step1](https://imgur.com/nOw9AqE.png)
 
-Add [CreateAssetBundles.cs](https://github.com/guiglass/CustomSceneBuilder/blob/master/Project/Assets/AnimPrep/Scripts/CreateAssetBundles.cs "CreateAssetBundles.cs") script to the project's asset folder.
+Add the [CreateAssetBundles.cs](https://github.com/guiglass/CustomSceneBuilder/blob/master/Project/Assets/AnimPrep/Scripts/CreateAssetBundles.cs "CreateAssetBundles.cs") script to the project's asset folder.
 
 
 
