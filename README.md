@@ -3,7 +3,6 @@ AnimationPrepStudio (Lite) - build scenes for recording.
 
 The CustomSceneBuilder contains an example Unity project that shows a Blender scene setup and ready to be built to an assetbundle for Luxor - after loading this example project you should see **Build Assetbundles** option located in the **Assets** dropdown menu in Unity.
 
----
 
 ## Creating Scene Assets Completely From Scratch:
 
