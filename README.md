@@ -7,6 +7,7 @@ The CustomSceneBuilder contains an example Unity project that shows a Blender sc
 ## Creating Scene Assets Completely From Scratch:
 
 First create a .blend file with the scene model and move it into a blank Unity scene:
+
 *Remember to create your scenes to-scale in Blender before moving to Unity.*
 
 ![Step1](https://imgur.com/djdF40W.png)
