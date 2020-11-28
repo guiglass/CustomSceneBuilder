@@ -6,19 +6,21 @@ The CustomSceneBuilder contains an example Unity project that shows a Blender sc
 
 ## Creating Scene Assets Completely From Scratch:
 
-First create a .blend file with the scene model and move it into a blank Unity scene:
+First create a .blend file with the scene model and move it into a blank Unity scene.
 
 *Remember to create the scene to-scale in Blender before moving to Unity.*
 
 ![Step1](https://imgur.com/djdF40W.png)
 
-
-
 If creating a scene from a blank project then you have to assign the assetbundle information for the Unity scene you just created. By selecting the MyNewScene.scene from in the project tab, you will then see the Asset Labels under the inspector tab, from there just create a new name in the **AssetBundle** dropdown, but be sure to leave "**Scene**" set as the variant type:
 
 ![Step1](https://imgur.com/nOw9AqE.png)
 
-From there you can build the scene to assetbundle by selecting Build **Assetbundles** from the **Assets** dropdown:
+Add [CreateAssetBundles.cs](https://github.com/guiglass/CustomSceneBuilder/blob/master/Project/Assets/AnimPrep/Scripts/CreateAssetBundles.cs "CreateAssetBundles.cs") script to the project's asset folder.
+
+
+
+From here you should be able to build the scene to an assetbundle by selecting Build **Assetbundles** from the **Assets** dropdown:
 
 ![Step1](https://imgur.com/mytvIic.png)
 
